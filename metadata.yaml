@@ -5,6 +5,9 @@ contributor:
     agent_name: Meyden, E.  Van
     gutenberg_agent_id: '54218'
     url: http://www.gutenberg.org/2009/agents/54218
+covers:
+- cover_type: archival
+  image_path: 67339-h/images/dianes03_cover.jpg
 creator:
   authors:
   - agent_name: Meurice, Paul
@@ -23,6 +26,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
     - https://fr.wikipedia.org/wiki/Alexandre_Dumas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67339#The-Two-Dianas-Volume-3-of-03
 gutenberg_issued: '2022-02-06'
 identifiers:
   gutenberg: '67339'
